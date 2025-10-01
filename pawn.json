@@ -1,0 +1,7 @@
+{
+	"user": "knryuu",
+	"repo": "y_circular.inc",
+	"dependencies": [
+		"pawn-lang/samp-stdlib",
+	]
+}
